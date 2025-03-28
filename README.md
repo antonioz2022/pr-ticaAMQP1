@@ -1,4 +1,7 @@
 # pr-ticaAMQP
+Código do consumidor para atividade de AMQP.
+
+Se for fazer o produtor em python, use a classe Receiver do github, se não, use o Receiver que ela mandou nos slides.
 
 ## Colocar isso no arquivo application.properties:
 
