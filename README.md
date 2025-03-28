@@ -8,3 +8,5 @@ spring.rabbitmq.virtual-host=dqtrbpho
 spring.rabbitmq.username=dqtrbpho
 spring.rabbitmq.addresses=amqps://dqtrbpho:LNvje2lDMw4IU-Pvf6TFb-gbB2aw4tyU@jackal.rmq.cloudamqp.com/dqtrbpho
 
+
+
